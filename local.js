@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  1.5˚ Climate Crisis ${years_to_event} years <span id="minutes" class='part'>${duration}</span>min
+Does empathy begin while stepping off the curb into the space time continuum of out home in the streets ...accelerating the timeline of exponentially increase population 2019 - 61,782 fast forward to 3019
 
   </marquee></li>`;
 
